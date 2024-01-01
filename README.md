@@ -1,7 +1,7 @@
 # react-faq-accordion
 FAQ accordion challenge from Frontend Mentor. Even though I had done this one with HTML, CSS, JS, I decided to make it now with React since I'm learning it. 
 
-A few things I enjoyed:
+A few things I enjoyed:<br>
 • I feel like I finally understand useState hooks and how they work. I feel very powerful! 
 • It was a nice introduction to see how to manipulate the DOM.
 • Using props and passing object properties. 
